@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 2.2.1 on 2012-07-02 at 21:56 (CEST)-->
-<!--Last edited by Ukelele version 3.0.2.59 on 2016-03-08 at 14:28 (GMT+1)-->
+<!--Last edited by Ukelele version 3.0.2.59 on 2017-09-04 at 12:26 (GMT+2)-->
 <keyboard group="0" id="6413" maxout="1" name="Custom - QWERTZ">
 	<layouts>
 		<layout first="0" last="17" mapSet="16c" modifiers="f4"/>
@@ -180,7 +180,7 @@
 			<key code="19" output="@"/>
 			<key code="20" output="#"/>
 			<key code="21" output="$"/>
-			<key code="22" output="§"/>
+			<key code="22" output="^"/>
 			<key code="23" output="%"/>
 			<key code="24" output="+"/>
 			<key code="25" output="("/>
@@ -992,7 +992,7 @@
 			<key code="47" output="."/>
 			<key code="48" output="&#x0009;"/>
 			<key action="5" code="49"/>
-			<key code="50" output="~"/>
+			<key code="50" output="`"/>
 			<key code="51" output="&#x0008;"/>
 			<key code="52" output="&#x0003;"/>
 			<key code="53" output="&#x001B;"/>
